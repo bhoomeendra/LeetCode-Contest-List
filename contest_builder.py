@@ -14,7 +14,7 @@ def load_questions():
 	return (G1,G2,G3,G4,G5)
 
 def save_contest(contest,day,idx):
-	with open('Day_'+str(day)+"_Contest_"+str(idx)+'.txt', 'w') as f:
+	with open("contest/"+'Day_'+str(day)+"_Contest_"+str(idx)+'.txt', 'w') as f:
 		for item in contest:
 			f.write("%s\n" % item)
 
