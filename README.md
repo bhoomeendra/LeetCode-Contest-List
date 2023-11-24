@@ -1,6 +1,7 @@
 Distribution of Questions in a Day (Total 9 Questions) Which are divded into 3 contest such that all the topics are covered each day. Most of the question are leetcode medium (90%). Most of the question are taken from [leetcode pattern list](https://github.com/SeanPrashad/leetcode-patterns).
 
 |Group|Topic|No. of Questions|
+|---|---|---|
 |G1	|BFS,DFS, BackTracking|	2|
 |G2	|Dynamic Programming|	2|
 |G3	|Sliding Window,Twopointer,Greedy|	2|
