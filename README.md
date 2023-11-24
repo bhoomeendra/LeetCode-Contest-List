@@ -11,63 +11,65 @@ Distribution of Questions in a Day (Total 9 Questions) Which are divded into 3 c
 
 # Contests CheckList
 
-1. Day_1_Contest_1 - []
-2. Day_1_Contest_2 - []
-3. Day_1_Contest_3 - []
-4. Day_2_Contest_1 - []
-5. Day_2_Contest_2 - [ ]
-6. Day_2_Contest_3 - [ ]
-7. Day_3_Contest_1 - [ ]
-8. Day_3_Contest_2 - [ ]
-9. Day_3_Contest_3 - [ ]
-10. Day_4_Contest_1 - [ ]
-11. Day_4_Contest_2 - [ ]
-12. Day_4_Contest_3 - [ ]
-13. Day_5_Contest_1 - [ ]
-14. Day_5_Contest_2 - [ ]
-15. Day_5_Contest_3 - [ ]
-16. Day_6_Contest_1 - [ ]
-17. Day_6_Contest_2 - [ ]
-18. Day_6_Contest_3 - [ ]
-19. Day_7_Contest_1 - [ ]
-20. Day_7_Contest_2 - [ ]
-21. Day_7_Contest_3 - [ ]
-22. Day_8_Contest_1 - [ ]
-23. Day_8_Contest_2 - [ ]
-24. Day_8_Contest_3 - [ ]
-25. Day_9_Contest_1 - [ ]
-26. Day_9_Contest_2 - [ ]
-27. Day_9_Contest_3 - [ ]
-28. Day_10_Contest_1 - [ ]
-29. Day_10_Contest_2 - [ ]
-30. Day_10_Contest_3 - [ ]
-31. Day_11_Contest_1 - [ ]
-32. Day_11_Contest_2 - [ ]
-33. Day_11_Contest_3 - [ ]
-34. Day_12_Contest_1 - [ ]
-35. Day_12_Contest_2 - [ ]
-36. Day_12_Contest_3 - [ ]
-37. Day_13_Contest_1 - [ ]
-38. Day_13_Contest_2 - [ ]
-39. Day_13_Contest_3 - [ ]
-40. Day_14_Contest_1 - [ ]
-41. Day_14_Contest_2 - [ ]
-42. Day_14_Contest_3 - [ ]
-43. Day_15_Contest_1 - [ ]
-44. Day_15_Contest_2 - [ ]
-45. Day_15_Contest_3 - [ ]
-46. Day_16_Contest_1 - [ ]
-47. Day_16_Contest_2 - [ ]
-48. Day_16_Contest_3 - [ ]
-49. Day_17_Contest_1 - [ ]
-50. Day_17_Contest_2 - [ ]
-51. Day_17_Contest_3 - [ ]
-52. Day_18_Contest_1 - [ ]
-53. Day_18_Contest_2 - [ ]
-54. Day_18_Contest_3 - [ ]
-55. Day_19_Contest_1 - [ ]
-56. Day_19_Contest_2 - [ ]
-57. Day_19_Contest_3 - [ ]
-58. Day_20_Contest_1 - [ ]
-59. Day_20_Contest_2 - [ ]
-60. Day_20_Contest_3 - [ ]
+|Contest|Q1|Q2|Q3|
+|---|---|---|---|
+|Day_1_Contest_1|	|	|	|
+|Day_1_Contest_2|	|	|	|
+|Day_1_Contest_3|	|	|	|
+|Day_2_Contest_1|	|	|	|
+|Day_2_Contest_2|	|	|	|
+|Day_2_Contest_3|	|	|	|
+|Day_3_Contest_1|	|	|	|
+|Day_3_Contest_2|	|	|	|
+|Day_3_Contest_3|	|	|	|
+|Day_4_Contest_1|	|	|	|
+|Day_4_Contest_2|	|	|	|
+|Day_4_Contest_3|	|	|	|
+|Day_5_Contest_1|	|	|	|
+|Day_5_Contest_2|	|	|	|
+|Day_5_Contest_3|	|	|	|
+|Day_6_Contest_1|	|	|	|
+|Day_6_Contest_2|	|	|	|
+|Day_6_Contest_3|	|	|	|
+|Day_7_Contest_1|	|	|	|
+|Day_7_Contest_2|	|	|	|
+|Day_7_Contest_3|	|	|	|
+|Day_8_Contest_1|	|	|	|
+|Day_8_Contest_2|	|	|	|
+|Day_8_Contest_3|	|	|	|
+|Day_9_Contest_1|	|	|	|
+|Day_9_Contest_2|	|	|	|
+|Day_9_Contest_3|	|	|	|
+|Day_10_Contest_1|	|	|	|
+|Day_10_Contest_2|	|	|	|
+|Day_10_Contest_3|	|	|	|
+|Day_11_Contest_1|	|	|	|
+|Day_11_Contest_2|	|	|	|
+|Day_11_Contest_3|	|	|	|
+|Day_12_Contest_1|	|	|	|
+|Day_12_Contest_2|	|	|	|
+|Day_12_Contest_3|	|	|	|
+|Day_13_Contest_1|	|	|	|
+|Day_13_Contest_2|	|	|	|
+|Day_13_Contest_3|	|	|	|
+|Day_14_Contest_1|	|	|	|
+|Day_14_Contest_2|	|	|	|
+|Day_14_Contest_3|	|	|	|
+|Day_15_Contest_1|	|	|	|
+|Day_15_Contest_2|	|	|	|
+|Day_15_Contest_3|	|	|	|
+|Day_16_Contest_1|	|	|	|
+|Day_16_Contest_2|	|	|	|
+|Day_16_Contest_3|	|	|	|
+|Day_17_Contest_1|	|	|	|
+|Day_17_Contest_2|	|	|	|
+|Day_17_Contest_3|	|	|	|
+|Day_18_Contest_1|	|	|	|
+|Day_18_Contest_2|	|	|	|
+|Day_18_Contest_3|	|	|	|
+|Day_19_Contest_1|	|	|	|
+|Day_19_Contest_2|	|	|	|
+|Day_19_Contest_3|	|	|	|
+|Day_20_Contest_1|	|	|	|
+|Day_20_Contest_2|	|	|	|
+|Day_20_Contest_3|	|	|	|
