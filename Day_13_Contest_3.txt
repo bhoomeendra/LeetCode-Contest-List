@@ -1,0 +1,3 @@
+https://leetcode.com/problems/sliding-window-maximum/
+https://leetcode.com/problems/painting-the-walls/
+https://leetcode.com/problems/minimum-falling-path-sum/
